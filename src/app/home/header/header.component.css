@@ -1,0 +1,33 @@
+mat-toolbar{
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/1021/963/681/5c1cbb81e7c08-wallpaper-preview.jpg);
+    color: white;
+    height: 60px;
+    margin-bottom: 50px;
+}
+ul{
+    list-style: none;
+    padding: 0 ;
+    width: 80%;
+}
+.menu{
+display: flex;
+font-size: 20px;
+padding: 21px;
+}
+li{
+    border: 2px solid;
+    text-align: center;
+    padding: 14px 30px 14px 30px;
+    margin-left: 100px;
+}
+li:hover{
+color: rgb(1, 35, 11);
+background: rgba(255, 255, 255, 0.484);
+border-radius: 50px;
+}
+h1{
+    display: block;
+    padding: 14px 30px 14px 30px;
+    text-align: center;
+    margin-right: 60px;
+}

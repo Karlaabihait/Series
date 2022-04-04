@@ -1,0 +1,19 @@
+.example-card {
+    max-width: 500px;
+    margin-left: 350px;
+    background-color: rgb(198, 221, 253);
+justify-content: space-between;
+}
+
+.riverdale{
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    border: solid 5px;
+
+
+}
+.riverdale:hover{
+    background-color: blue;
+border-radius: 50px;
+}
